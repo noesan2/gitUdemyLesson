@@ -1,1 +1,3 @@
 This is a new txt file for training the pull concept
+
+Agregado desde un colaborar externo al repo
